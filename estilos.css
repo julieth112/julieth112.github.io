@@ -1,0 +1,30 @@
+h1{
+margin: 0 auto;
+display: flex;
+justify-content: center;
+margin-bottom: 60px;
+}
+#cuadrogeneral{
+	background: salmon !important;
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+
+}
+.cuadromediano{
+	width: 50%;
+	justify-content: center;
+}
+.cuadritos{
+	width: 40%;
+	height: 70px;
+	background: #BB9EFD;
+}
+
+.img{
+	margin-top: 50px;
+	display: flex;
+	width: 500px;
+	height: 300px;
+}
+
