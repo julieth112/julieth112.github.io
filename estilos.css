@@ -38,6 +38,7 @@ text-decoration: none;
 }
 
 .home{
+	width: 60px;
 	float:right;
 	margin-left: 0;
 	position: absolute;
