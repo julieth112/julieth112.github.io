@@ -37,3 +37,8 @@ text-decoration: none;
 	height: 300px;
 }
 
+.home{
+	float:right;
+	margin-left: 0;
+	position: absolute;
+}
