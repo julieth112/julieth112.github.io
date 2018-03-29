@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Life+Savers');
+
+html,body {
+	height: 100%;
+	margin:0;
+
+}
+
+header {
+	background: #000;
+	height: 120px
+
+	}
+
+.parrafo {
+	width: 35%;
+	height: 30%;
+	border-radius: 10px;
+	background-color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.parrafo > p {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding-top:  2%;
+	width: 90%;
+}
