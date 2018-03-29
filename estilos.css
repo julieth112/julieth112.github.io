@@ -32,24 +32,6 @@ header {
 	width: 90%;
 }
 
-.parrafo1 {
-	width: 50%;
-	height: 50%;
-	border-radius: 10px;
-	background-color: #fff;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.parrafo1 > p {
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 5%;
-	margin-bottom: 5%;
-	padding-top:  2%;
-	width: 90%;
-}
 
 .logo{
 	float: left;
